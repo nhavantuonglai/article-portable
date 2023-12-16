@@ -2,6 +2,48 @@
 	{
 		"amount" : "0:00:02.00",
 		"fields" : 0,
+		"filename" : "Cunk.On.Earth.S01E01.WEBRip.Netflix.vi.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:06.00",
+		"fields" : 0,
+		"filename" : "Cunk.On.Earth.S01E01.WEBRip.Netflix.vi.srt",
+		"is backward" : true,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
+		"filename" : "Cunk.On.Earth.S01E01.WEBRip.Netflix.vi.srt",
+		"is backward" : false,
+		"is by time" : true,
+		"mode" : 2,
+		"selection" : [
+			{
+				"end" : 1,
+				"start" : 1
+			}
+		]
+	},
+	{
+		"amount" : "0:00:02.00",
+		"fields" : 0,
 		"filename" : "[2012] the dark knight rises.srt",
 		"is backward" : false,
 		"is by time" : true,
@@ -654,48 +696,6 @@
 			{
 				"end" : 1,
 				"start" : 1
-			}
-		]
-	},
-	{
-		"amount" : "0:00:01.00",
-		"fields" : 0,
-		"filename" : "[2007] the big bang theory • season 01 • episode 02.srt",
-		"is backward" : false,
-		"is by time" : true,
-		"mode" : 2,
-		"selection" : [
-			{
-				"end" : 316,
-				"start" : 316
-			}
-		]
-	},
-	{
-		"amount" : "0:00:01.00",
-		"fields" : 0,
-		"filename" : "[2007] the big bang theory • season 01 • episode 02.srt",
-		"is backward" : false,
-		"is by time" : true,
-		"mode" : 1,
-		"selection" : [
-			{
-				"end" : 316,
-				"start" : 316
-			}
-		]
-	},
-	{
-		"amount" : "0:00:01.00",
-		"fields" : 0,
-		"filename" : "[2007] the big bang theory • season 01 • episode 02.srt",
-		"is backward" : false,
-		"is by time" : true,
-		"mode" : 0,
-		"selection" : [
-			{
-				"end" : 316,
-				"start" : 316
 			}
 		]
 	}

@@ -303,7 +303,7 @@
 			"Audio" : "",
 			"Automation" : "",
 			"Keyframes" : "",
-			"Subtitles" : "D:\\OneDrive - Rawfulness\\rawfulness cinematic\\filmcine",
+			"Subtitles" : "E:\\OneDrive - Rawfulness\\rawfulness recycle bin\\downloads\\Cunk.On.Earth.S01.1080p.iP.WEBRip.AAC2.0.x264-PlayWEB[eztv.re]",
 			"Timecodes" : "",
 			"Video" : ""
 		},
@@ -538,7 +538,7 @@
 		"Shift Times" : {
 			"Affect" : 2,
 			"ByTime" : true,
-			"Direction" : false,
+			"Direction" : true,
 			"Frames" : 0,
 			"Time" : 2000,
 			"Type" : 0
